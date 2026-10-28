@@ -1,0 +1,8 @@
+streamlit>=1.35
+requests
+python-dotenv
+beautifulsoup4
+pandas
+# Optional but recommended (JobLens falls back to simpler methods without them):
+spacy>=3.7
+sentence-transformers>=2.7

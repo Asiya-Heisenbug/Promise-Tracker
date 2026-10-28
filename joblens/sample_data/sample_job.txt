@@ -1,0 +1,27 @@
+AI Developer - Fresher
+
+Company: Nimbus AI Labs
+Location: Chennai, Tamil Nadu (Hybrid)
+Salary: ₹35,000 - ₹50,000 per month
+Experience: 0-1 years
+Shift: Day shift, 9:30 AM to 6:30 PM
+
+About Nimbus AI Labs
+Nimbus AI Labs is a fast-paced product startup building intelligent document-processing tools for banks and insurers.
+
+Responsibilities
+- Leverage cutting-edge AI technologies to develop scalable intelligent solutions.
+- Collaborate with cross-functional stakeholders to ideate and deliver end-to-end ML features.
+- Build and consume REST APIs using FastAPI to integrate models into customer-facing applications.
+- Clean and preprocess text datasets and evaluate NLP model performance.
+- Utilize best practices for testing, code reviews and deployment on cloud platforms.
+
+Requirements
+- Strong programming skills in Python
+- Understanding of machine learning and NLP fundamentals
+- Familiarity with FastAPI or Flask
+- Knowledge of SQL and Git
+
+Good to have
+- Experience with RAG pipelines and LLMs
+- Exposure to Docker and AWS

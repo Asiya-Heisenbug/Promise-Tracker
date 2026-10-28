@@ -1,0 +1,1 @@
+Nimbus AI Labs is a fictional product startup (demo data) based in Chennai. It builds document-processing tools for banks and insurers using NLP and machine learning. Founded in 2019, it has around 80 employees and a hybrid work policy.
